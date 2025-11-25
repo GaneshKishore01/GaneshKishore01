@@ -98,15 +98,15 @@
 <h3 align="left">📚  Core Competencies :<br>Languages: C++, Python, JavaScript, SQL, HTML<br>Web Development: Node.js, Nginx <br>Tools & Platforms: Git, GitHub, Docker, Blender, AutoCad, KiCad<br>Core Concepts: Object-Oriented Programming (OOPs), Operating Systems (OS), DBMS, Data Structures & Algorithms</h3>
 
 <details>
-  <summary><strong>🌱 My Coding Journey (click to expand)</strong></summary>
+  
+<summary><strong>🌱 My Coding Journey (click to expand)</strong></summary>
 
-I started coding to automate small lab tasks, but quickly realized how powerful software is in solving real biotech problems.  
-What began with simple scripts grew into building tools, simulations and hardware integrations using C++, Python and Raspberry Pi.  
-I'm inspired by how tech accelerates research—whether it's data analysis, automation, or intelligent systems for biotech workflows.  
-Today I’m focused on combining engineering with biology to build scalable, real-world solutions.  
-My goal is to bring this interdisciplinary approach into professional environments like UBS where tech drives impact.
-
+I began coding in high school, but my interest in electronics and robotics pushed me deeper into C++, JavaScript, and other languages.
+Through constant tinkering and engineering small hardware–software prototypes, I strengthened my creativity and problem-solving approach.
+Over time, I became proficient in the Python ecosystem, with practical experience in software development and AI/ML training thanks to my projects.
+Today, as a Biotechnology student, I enjoy combining biology, software, and electronics to create smarter, optimized solutions for a better tomorrow✨🌍.
 </details>
+
 ###
 
 <div>
