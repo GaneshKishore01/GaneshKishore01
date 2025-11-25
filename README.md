@@ -97,6 +97,16 @@
 
 <h3 align="left">📚  Core Competencies :<br>Languages: C++, Python, JavaScript, SQL, HTML<br>Web Development: Node.js, Nginx <br>Tools & Platforms: Git, GitHub, Docker, Blender, AutoCad, KiCad<br>Core Concepts: Object-Oriented Programming (OOPs), Operating Systems (OS), DBMS, Data Structures & Algorithms</h3>
 
+<details>
+  <summary><strong>🌱 My Coding Journey (click to expand)</strong></summary>
+
+I started coding to automate small lab tasks, but quickly realized how powerful software is in solving real biotech problems.  
+What began with simple scripts grew into building tools, simulations and hardware integrations using C++, Python and Raspberry Pi.  
+I'm inspired by how tech accelerates research—whether it's data analysis, automation, or intelligent systems for biotech workflows.  
+Today I’m focused on combining engineering with biology to build scalable, real-world solutions.  
+My goal is to bring this interdisciplinary approach into professional environments like UBS where tech drives impact.
+
+</details>
 ###
 
 <div>
@@ -107,17 +117,5 @@
 
 <div align="left">
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GaneshKishore01/GaneshKishore01/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GaneshKishore01/GaneshKishore01/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GaneshKishore01/GaneshKishore01/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/GaneshKishore01/GaneshKishore01/output/snake.svg" alt="Snake animation" />
 
 ###
