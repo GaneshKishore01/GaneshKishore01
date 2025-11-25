@@ -99,7 +99,7 @@
 
 <details>
   
-<summary><strong>🌱 My Coding Journey (click to expand)</strong></summary>
+<summary><strong>🌱 My Coding Journey </strong></summary>
 
 I began coding in high school, but my interest in electronics and robotics pushed me deeper into C++, JavaScript, and other languages.
 Through constant tinkering and engineering small hardware–software prototypes, I strengthened my creativity and problem-solving approach.
