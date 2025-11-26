@@ -95,7 +95,14 @@
 
 ###
 
-<h3 align="left">📚  Core Competencies :<br><h2>Languages:</h2>h2> C++, Python, JavaScript, SQL, HTML<br><h2>Web Development: <h2/>Node.js, Nginx <br><h2>Tools & Platforms:</h2>h2> Git, GitHub, Docker, Blender, AutoCad, KiCad<br><h2>hCore Concepts:</h2>h2> Object-Oriented Programming (OOPs), Operating Systems (OS), DBMS, Data Structures & Algorithms</h3>
+<h3 align="left">📚 Core Competencies</h3>
+
+<p align="left">
+  <strong>Languages:</strong> C++, Python, JavaScript, SQL, HTML <br>
+  <strong>Web Development:</strong> Node.js, Nginx <br>
+  <strong>Tools & Platforms:</strong> Git, GitHub, Docker, Blender, AutoCAD, KiCad <br>
+  <strong>Core Concepts:</strong> OOP, Operating Systems (OS), DBMS, Data Structures & Algorithms
+</p>
 
 <details>
   
