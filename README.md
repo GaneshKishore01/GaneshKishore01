@@ -95,11 +95,11 @@
 
 ###
 
-<h3 align="left">📚  Core Competencies :<br>Languages: C++, Python, JavaScript, SQL, HTML<br>Web Development: Node.js, Nginx <br>Tools & Platforms: Git, GitHub, Docker, Blender, AutoCad, KiCad<br>Core Concepts: Object-Oriented Programming (OOPs), Operating Systems (OS), DBMS, Data Structures & Algorithms</h3>
+<h3 align="left">📚  Core Competencies :<br><h2>Languages:</h2>h2> C++, Python, JavaScript, SQL, HTML<br><h2>Web Development: <h2/>Node.js, Nginx <br><h2>Tools & Platforms:</h2>h2> Git, GitHub, Docker, Blender, AutoCad, KiCad<br><h2>hCore Concepts:</h2>h2> Object-Oriented Programming (OOPs), Operating Systems (OS), DBMS, Data Structures & Algorithms</h3>
 
 <details>
   
-<summary><h2>🌱 My Coding Journey </h2>h2>></summary>
+<summary><h2>🌱 My Coding Journey </h2></summary>
 
 I began coding in high school, but my interest in electronics and robotics pushed me deeper into C++, JavaScript, and other languages.
 Through constant tinkering and engineering small hardware–software prototypes, I strengthened my creativity and problem-solving approach.
