@@ -10,7 +10,7 @@
       </p>
     </td>
     <td align="right">
-      <img src="src/GK_ProductionsLogo.png" height="200" />
+      <img src="src/GK_ProductionsLogo.png" height="900" />
     </td>
   </tr>
 </table>
