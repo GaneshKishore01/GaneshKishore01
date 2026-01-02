@@ -8,7 +8,7 @@
       </p>
     </td>
     <td align="right">
-      <img src="src/GK_ProductionsLogo.png" height="1500" />
+      <img src="src/GK_ProductionsLogo.png" height="15000" />
     </td>
   </tr>
 </table>
