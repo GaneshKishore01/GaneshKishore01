@@ -1,16 +1,20 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1>Hey 👋 What's up?</h1>
 
-<div align="left" style="display: flex; align-items: center; justify-content: space-between;">
+<table>
+  <tr>
+    <td width="75%">
+      <p>
+        My name is <b>Ganesh Kishore</b> and I'm a <br>
+        first year biotechnology student <br>
+        University of Wroclaw, Poland.
+      </p>
+    </td>
+    <td align="right">
+      <img src="src/GK_ProductionsLogo.png" height="120" />
+    </td>
+  </tr>
+</table>
 
-  <p align="left">
-    My name is <b>Ganesh Kishore</b> and I'm a <br>
-    first year biotechnology student <br>
-    University of Wroclaw, Poland.
-  </p>
-
-  <img height="120" src="src/GK_ProductionsLogo.png" alt="GK Productions Logo" />
-
-</div>
 
 
 <h2 align="left">About me</h2>
