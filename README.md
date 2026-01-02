@@ -4,13 +4,11 @@
   <tr>
     <td width="75%">
       <p>
-        My name is <b>Ganesh Kishore</b> and I'm a <br>
-        first year biotechnology student <br>
-        University of Wroclaw, Poland.
+        My name is <b>Ganesh Kishore</b> and I'm a first year biotechnology student at University of Wroclaw, Poland.
       </p>
     </td>
     <td align="right">
-      <img src="src/GK_ProductionsLogo.png" height="900" />
+      <img src="src/GK_ProductionsLogo.png" height="1500" />
     </td>
   </tr>
 </table>
