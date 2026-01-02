@@ -1,18 +1,17 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
+<div align="left" style="display: flex; align-items: center; justify-content: space-between;">
 
-<p align="left">My name is Ganesh Kishore and I'm a <br>first year biotechnology student University of Wroclaw, Poland.</p>
+  <p align="left">
+    My name is <b>Ganesh Kishore</b> and I'm a <br>
+    first year biotechnology student <br>
+    University of Wroclaw, Poland.
+  </p>
 
-###
+  <img height="120" src="src/GK_ProductionsLogo.png" alt="GK Productions Logo" />
 
-<br clear="both">
-
-<div align="right">
-  <img height="200" src="src/GK_ProductionsLogo.png"  />
 </div>
 
-###
 
 <h2 align="left">About me</h2>
 
