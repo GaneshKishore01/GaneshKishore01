@@ -1,128 +1,61 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Ganesh Kishore and I'm a <br>first year biotechnology student University of Wroclaw, Poland.</p>
+
+###
+
+<br clear="both">
+
+<div align="right">
+  <img height="200" src="src/GK_ProductionsLogo.png"  />
 </div>
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ganesh-kishore-2886b4275/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="ganeshkishore76@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="+48 515 804 940" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-  <a href="365023@uwr.edu.pl" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
-  </a>
-</div>
+<h2 align="left">About me</h2>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GaneshKishore01.GaneshKishore01&"  />
-</div>
+<p align="left">📚 I'm currently learning C++, Electrical Engineering<br>🎯 Goals: To owm Food & Phrarma company</p>
 
 ###
 
-<h1 align="center">Hey there 👋, I'm Ganesh Kishore</h1>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=10&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=merko"  />
-</div>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">- 🔭 I’m studying Biotechnology at University of Wroclaw(UWr).<br>- 📚 I'm currently learning KiCad, C++, JavaScript.<br>- ⚡ In my free time I like to create novel and intresting projects.</p>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=10&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=merko"  />
-</div>
-
-###
-
-<h3 align="left">🛠 My Tech Stack</h3>
+<h2 align="left">I work with</h2>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="40" alt="maya logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
 </div>
+
+###
+
+<p align="left">Contact me!<br>E-mail: ganeshkishore76@gmail.com</p>
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=10&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=merko"  />
-</div>
-
-###
-
-<h3 align="left">📚 Core Competencies</h3>
-
-<p align="left">
-  <strong>Languages:</strong> C++, Python, JavaScript, SQL, HTML <br>
-  <strong>Web Development:</strong> Node.js, Nginx <br>
-  <strong>Tools & Platforms:</strong> Git, GitHub, Docker, Blender, AutoCAD, KiCad <br>
-  <strong>Core Concepts:</strong> OOP, Operating Systems (OS), DBMS, Data Structures & Algorithms
-</p>
-
-<details>
-  
-<summary><h3>🌱 My Coding Journey 🍀</h3></summary>
-
-I began coding in high school, but my interest in electronics and robotics pushed me deeper into C++, JavaScript, and other languages.
-Through constant tinkering and engineering small hardware–software prototypes, I strengthened my creativity and problem-solving approach.
-Over time, I became proficient in the Python ecosystem, with practical experience in software development and AI/ML training thanks to my projects.
-Today, as a Biotechnology student, I enjoy combining biology, software, and electronics to create smarter, optimized solutions for a better tomorrow✨🌍.
-</details>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=10&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=merko"  />
-</div>
-
-###
-
-<div align="left">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=radical"  />
 </div>
 
 ###
