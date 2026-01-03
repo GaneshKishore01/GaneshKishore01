@@ -4,7 +4,7 @@
   <tr>
     <td width="75%">
       <p>
-        My name is <b>Ganesh Kishore</b> and I'm a first year biotechnology student at University of Wroclaw, Poland.
+        My name is <b>Ganesh Kishore</b> and I'm a biotechnology Bachelors student at University of Wroclaw, Poland.
       </p>
     </td>
     <td align="right">
